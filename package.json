@@ -1,0 +1,1 @@
+{"name":"one-letter-coffee-tea","version":"1.0.0","type":"module","main":"main.ts","scripts":{"start":"node main.ts"}}
